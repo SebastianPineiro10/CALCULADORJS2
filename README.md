@@ -14,6 +14,19 @@ Este repositorio contiene una calculadora simple desarrollada en JavaScript por 
 ## Características
 
 - Realiza operaciones básicas: suma, resta, multiplicación y división.
+  
+ - **Funciones científicas**:
+  - Raíz cuadrada (√)
+  - Potencia (^)
+  - Inverso (1/x)
+  - Logaritmo (log)
+  - Exponencial (exp)
+  - Seno (sin)
+  - Coseno (cos)
+  - Tangente (tan)
+- Interfaz simple y amigable.
+- Código fácil de entender y modificar.
+
 - Interfaz simple y amigable.
 - Código fácil de entender y modificar.
 
