@@ -2,7 +2,7 @@
 
 Este es el repositorio de CALCULADORAJS, un proyecto desarrollado por Sebastian Piñeiro Madero. La calculadora está disponible en https://sebastianpineiro10.github.io/CALCULADORJS2/
 
-Este repositorio contiene una calculadora simple desarrollada en JavaScript por Sebastian Piñeiro Madero, diseñada para realizar operaciones matemáticas básicas de manera fácil y rápida.
+Este repositorio contiene una calculadora simple desarrollada en JavaScript por Sebastian Piñeiro Madero, diseñada para realizar operaciones matemáticas cientificas de manera fácil y rápida.
 
 ## Tabla de Contenidos
 
