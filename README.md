@@ -1,6 +1,6 @@
 # CALCULADORA SENCILLA
 
-Este es el repositorio de CALCULADORAJS, un proyecto desarrollado por Sebastian Piñeiro Madero. La calculadora está disponible en https://sebastianpineiro10.github.io/CALCULADORAJS/
+Este es el repositorio de CALCULADORAJS, un proyecto desarrollado por Sebastian Piñeiro Madero. La calculadora está disponible en 
 
 Este repositorio contiene una calculadora simple desarrollada en JavaScript por Sebastian Piñeiro Madero, diseñada para realizar operaciones matemáticas básicas de manera fácil y rápida.
 
