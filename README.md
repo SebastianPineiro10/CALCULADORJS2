@@ -15,7 +15,7 @@ Este repositorio contiene una calculadora simple desarrollada en JavaScript por 
 
 - Realiza operaciones básicas: suma, resta, multiplicación y división.
   
- - **Funciones científicas**:
+  **Funciones científicas**:
   - Raíz cuadrada (√)
   - Potencia (^)
   - Inverso (1/x)
